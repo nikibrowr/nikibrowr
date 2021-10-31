@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nikibrowr
-- 👀 I’m interested in spongebob
--💞️ I’m looking to collaborate on ...
--💞️Epic Games
+- 👋 Hi, I’m @nikibrowr👋
+- 👀 I’m interested in spongebob👀
+-💞️I’m looking to collaborate on Epic Games💞️
+-💞️I'm creating
 - 
 
 <!---
