@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nikibrowr👋
-- 👀 I’m interested in spongebob👀
--💞️I’m looking to collaborate on Epic Games💞️
--💞️I'm creating
-- 
+👋 Hi, I’m @nikibrowr👋
+👀 I’m interested in spongebob👀
+💞️I’m looking to collaborate on Epic Games💞️
+💞️I'm creating💞️
+ 
 
 <!---
 nikibrowr/nikibrowr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
